@@ -1,0 +1,7 @@
+.env
+.idea
+.temp
+log
+node_modules
+static
+npm-debug.log
