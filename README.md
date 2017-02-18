@@ -7,5 +7,5 @@ $ npm start --url 'http://www.facebook.com' --name facebook
 or
 
 ```sh
-$ node bin/browse.js --url 'http://www.facebook.com' --name facebook
+$ node bin/browse --url 'http://www.facebook.com' --name facebook
 ```
